@@ -1,0 +1,17 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "content": "Hey, so today was an amazing adventure in the water park. Most amazing thing happened.",
+      "createdAt": "2021-07-13T13:57:41.073Z"
+    },
+    { "id": 2, "content": "", "createdAt": "" },
+    {
+      "id": 3,
+      "content": "Wow, I didn't know that this app is so useful!",
+      "createdAt": "2021-07-10T13:57:41.073Z"
+    },
+    { "id": 4, "content": "", "createdAt": "" },
+    { "id": 5, "content": "", "createdAt": "" }
+  ]
+}
